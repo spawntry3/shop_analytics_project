@@ -27,7 +27,7 @@ shop_analytics_project/
 ### 1. Склонировать репозиторий
 
 ```bash
-git clone https://github.com/<ваш_логин>/shop_analytics_project.git
+git clone https://github.com/spawntry3/shop_analytics_project.git
 cd shop_analytics_project
 ```
 
@@ -80,3 +80,13 @@ python main.py
 - sqlalchemy
 - psycopg2-binary
 - matplotlib
+
+## Результат
+
+### Динамика продаж и накопительная выручка
+
+![Sales Analytics](sales_analytics.png)
+
+### ТОП-5 товаров по выручке
+
+![Top Products](top_products.png)
